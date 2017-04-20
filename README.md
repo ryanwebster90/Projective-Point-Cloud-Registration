@@ -11,4 +11,4 @@ an example of how to select the points.
 Example:
 
 
-<img src="github.com/ambient-space/heatmap_conv.png" width="48">
+<img src="https://github.com/ambient-space/Projective-Point-Cloud-Registration/heatmap_conv.png" width="48">
