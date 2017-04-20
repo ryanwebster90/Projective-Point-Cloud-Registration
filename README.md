@@ -9,6 +9,7 @@ an example of how to select the points.
 
 
 #Example
-![image1](647_conv.png = 200x)
-![image2](heatmap_conv.png = 200x)
-![registration](example.png = 200x)
+
+![image1](647_conv.png)
+![image2](heatmap_conv.png)
+![registration](example.png
