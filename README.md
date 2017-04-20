@@ -10,4 +10,5 @@ an example of how to select the points.
 
 Example:
 
-![image2](heatmap_conv.png =250x250)
+
+<img src="github.com/ambient-space/heatmap_conv.png" width="48">
